@@ -74,7 +74,7 @@ After deploying, we can interact with the contract.
 
 ## Authors
 
-Nikhil Maurya
+Aditya Bharti
 
 
 ## License
